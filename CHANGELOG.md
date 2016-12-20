@@ -4,6 +4,7 @@
 
 * Fix internal dependencies on RuboCop to be compatible with 0.47 release. ([@backus][])
 * Add autocorrect support for `SingleArgumentMessageChain` cop. ([@bquorning][])
+* Add `ScatteredSetup` cop for enforcing that only one `before`, `around`, and `after` hook are used per example group scope. ([@backus][])
 
 ## 1.9.1 (2017-01-02)
 
